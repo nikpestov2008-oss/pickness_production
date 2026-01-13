@@ -83,7 +83,7 @@ export const Process: React.FC = () => {
     {
       id: "04",
       title: "ЗЙОМКА",
-      desc: "Виїзд професійної команди з топовим обладнанням на вашу локацію.",
+      desc: "Виїзд команди з обладнанням на вашу локацію.",
       icon: <Video className="w-6 h-6" />
     },
     {
@@ -216,7 +216,7 @@ export const Process: React.FC = () => {
              <ProcessCard 
                 number="4" 
                 title="ЗЙОМКА" 
-                description="Виїзд професійної команди з топовим обладнанням на вашу локацію."
+                description="Виїзд команди з обладнанням на вашу локацію."
                 icon={<Video />}
                 align="right"
             />
